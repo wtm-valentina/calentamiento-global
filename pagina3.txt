@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<title>Calentamiento global</title>
+</head>
+
+<body background=fondo.jpg>
+
+<font size=3><b>
+<a id=inicio>
+<ol>
+<li value= "3"><a href=#ancla3>Efecto invernadero</li>
+<li><a href=#ancla4>Consecuencias</li>
+</ol>
+</a>
+</font></b>
+
+<p>
+<center>
+<img src="foto5.jpg" width="540" height="380">
+</center>
+<p>
+
+
+<hr size="13" color="gray"></hr>
+
+
+<b><font size=3>
+<ol>
+<li value= "3"><a id=ancla3>Efecto invernadero</a>
+<p></b></font>
+
+<p align= justify><img src=foto6.jpg width="230" height="271" align= left>
+La atmósfera de la Tierra se comporta como un invernadero gigante, a pesar de que atrapa el calor de una manera diferente. Los gases en la alta atmósfera, como el dióxido de carbono y el metano se comportan como un enorme cristal curvado que envuelve al planeta.
+<p>
+Los rayos del sol (sobre todo la luz visible, la longitud de onda corta y la radiación ultravioleta de alta energía) pasan directamente a través de esta capa gaseosa y producen el calentamiento de la Tierra. A su vez el planeta emite energía que se irradia hacia el espacio.
+<p>
+Parte de esta radiación saliente es reflejada de vuelta a la Tierra, atrapando eficazmente el calor y manteniendo el planeta aproximadamente 33 grados más caliente de lo que debería estar.
+
+Esto se llama el efecto invernadero natural y es algo beneficioso, ya que sin él la Tierra sería demasiado fría y no tendríamos la enorme diversidad de vida que la caracteriza.</li>
+</p align= justify><p>
+
+<br>
+<p align=right>
+<a href=#inicio><button>Inicio</button></a>
+</align>
+
+
+<hr size="13" color="gray"></hr>
+
+
+<b><font size=4>
+<li><a id=ancla4>Estructura del género</a>
+<p></b></font>

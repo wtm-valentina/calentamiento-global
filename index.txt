@@ -1,0 +1,28 @@
+<html>
+
+<head>
+<title>Calentamiento global</title>
+</head>
+
+<frameset cols="85%,15%">
+<frameset rows="10%,90%">
+<frame src="pagina6.html">
+
+<frame src="pagina1.html" name=pagina1>
+<frame src="pagina5.html">
+</frameset>
+
+<frame src="pagina5.html">
+<frame src="pagina2.html">
+</frameset>
+
+<frame src="pagina5.html" >
+<frame src="pagina3.html">
+</frameset>
+
+<frame src="pagina5.html">
+<frame src="pagina4.html">
+</frameset>
+
+
+</html>

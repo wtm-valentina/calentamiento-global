@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<title>Suspenso</title>
+</head>
+
+<body background=fondo.jpg>
+
+<center><p><b>
+<font size=4>Calentamiento global</font>
+</b>
+<p>
+
+<table border= 5>
+
+<tr><td><a href=enlace1.html target= enlace1>Home</a></td></tr>
+<tr><td><a href=enlace2.html target= enlace1>Calentamiento global</a></td></tr>
+<tr><td><a href=enlace2.html target= enlace1>Causas</a></td></tr>
+<tr><td><a href=enlace3.html target= enlace1>Efecto invernadero</a></td></tr>
+<tr><td><a href=enlace3.html target= enlace1>Consecuencias</a></td></tr>
+<tr><td><a href=enlace4.html target= enlace1>Posibles soluciones</a></td></tr>
+<tr><td><a href=enlace4.html target= enlace1>Respuestas del mundo</a></td></tr>
+
+</table>
+
+
+</body>
+
+</html>

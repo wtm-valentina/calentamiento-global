@@ -1,0 +1,15 @@
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+<body background="fondo.jpg">
+
+<head>
+<title> Calentamiento global</title>
+</head>
+
+<center>
+<font face="Beau Chat" size="6" color=black> <marquee direction="right"> <strong> Calentamiento global </marquee> </strong> </font>
+
+</body>
+
+</html>
